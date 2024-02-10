@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahfim-ibn-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tahfim-ibn-khan" /> </p>
 
-- 🔭 Current project I'm working on **Green Box**
+- 🔭 Current project, I'm working on is **Green Box**
 
 - 🌱 I’m currently learning **MERN**
 
