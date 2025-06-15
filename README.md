@@ -51,14 +51,6 @@
 
 ---
 
-### 🌍 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/tahfim-ibn-khan)
-- 📸 [Instagram](https://instagram.com/tahfim__ibn_khan)
-- 📧 **tahfimibnkhan123@gmail.com**
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
