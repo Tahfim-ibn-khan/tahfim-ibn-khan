@@ -10,9 +10,8 @@
 ### 🔎 About Me
 
 - 🌱 Currently diving deep into **MERN Stack**, **NestJS**, **Next.js**, and **AI-powered apps**
-- 💼 Ex–**Software Developer Intern** at **Techwave Solutions Inc.**
 - 💡 Passionate about building full-stack solutions & creative problem-solving
-- 📫 Email me at: **tahfimibnkhan123@gmail.com**
+- 📫 Email me at: **tahfim.khan@monstar-lab.com**
 - 📁 Explore my work: [github.com/Tahfim-ibn-khan](https://github.com/Tahfim-ibn-khan)
 
 ---
