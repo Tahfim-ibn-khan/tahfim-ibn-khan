@@ -9,7 +9,7 @@
 
 ### 🔎 About Me
 
-- 🌱 Currently diving deep into **MERN Stack**, **NestJS**, **Next.js**, and **AI-powered apps**
+- 🌱 Currently diving deep into **Laravel**, **MERN Stack**, **NestJS** and **AI-powered apps**
 - 💡 Passionate about building full-stack solutions & creative problem-solving
 - 📫 Email me at: **tahfim.khan@monstar-lab.com**
 - 📁 Explore my work: [github.com/Tahfim-ibn-khan](https://github.com/Tahfim-ibn-khan)
