@@ -51,7 +51,6 @@ APIs that stay reliable when real traffic hits them.
 |:--|:--|
 | 🏢 **Role** | Backend Engineer I · Monstarlab |
 | 🎓 **Studying** | MSc CS · Universität Paderborn |
-| 📜 **BSc** | CSE · AIUB · **CGPA 3.81 / 4.00** |
 | 🏆 **Awards** | Emerging Star · 3× Dean's Award |
 | 🗣️ **Languages** | English (C1) · German (A1) |
 | 🌐 **Site** | [tahfim.com](https://tahfim.com) |
