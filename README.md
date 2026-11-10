@@ -207,7 +207,7 @@ NestJS backend with Square SDK, OAuth, idempotent payments, refunds and **HMAC-v
 <tr>
 <td align="right" valign="top"><sub><b>Sep 2021 — Sep 2025</b></sub></td>
 <td valign="top"><b>BSc Computer Science &amp; Engineering</b> · American International University-Bangladesh<br/>
-<sub>CGPA <b>3.81 / 4.00</b> · 3× Dean's Award · 50% Academic Scholarship</sub></td>
+<sub></b> · 3× Dean's Award · 50% Academic Scholarship</sub></td>
 </tr>
 </table>
 
