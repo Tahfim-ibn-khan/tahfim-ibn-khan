@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://tahfim.com"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.tahfim.com/resume.pdf"><img src="https://img.shields.io/badge/Résumé-38bdf8?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/tahfim-ibn-khan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tahfimibnkhan321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/tahfim_ibn_khan/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
